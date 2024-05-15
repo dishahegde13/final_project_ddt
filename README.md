@@ -133,5 +133,5 @@ Figure 9: Genetic map of Streptomyces 12
   - Certain analysis metrics hard to understand without prior understanding of program
 
 ### Helpful Links
-Proksee site: https://proksee.ca/
-Whole-Genome Assembly and Assessment Tutorial: https://github.com/Joseph7e/MDIBL-T3-WGS-Tutorial
+* Proksee site: https://proksee.ca/
+* Whole-Genome Assembly and Assessment Tutorial: https://github.com/Joseph7e/MDIBL-T3-WGS-Tutorial
