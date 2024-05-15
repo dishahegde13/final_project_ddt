@@ -2,9 +2,9 @@
 
 # Getting Raw reads
 mkdir -p ~/final_project_exe/raw_reads
-cp /tmp/gen711_project_data/genome-assembly-fqs/12* ~/final_project_exe/raw_reads
-cp /tmp/gen711_project_data/genome-assembly-fqs/CC4* ~/final_project_exe/raw_reads
-cp /tmp/gen711_project_data/genome-assembly-fqs/2_*  ~/final_project_exe/raw_reads
+cp /tmp/gen711_project_data/genome-assembly-fqs/12* ~/final_project/raw_reads
+cp /tmp/gen711_project_data/genome-assembly-fqs/CC4* ~/final_project/raw_reads
+cp /tmp/gen711_project_data/genome-assembly-fqs/2_*  ~/final_project/raw_reads
 
 # Checking Read Quality
 conda activate genomics
