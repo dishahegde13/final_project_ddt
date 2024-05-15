@@ -126,3 +126,12 @@ Figure 8: Genetic map of Mycobacterium shigaense
 Figure 9: Genetic map of Streptomyces 12
 
 ## Conclusions
+* Guide very helpful for completing project
+  - Straightforward and concise
+* Proksee great additional tool for helping with visualization
+* Some graphs harder to understand than others
+  - Certain analysis metrics hard to understand without prior understanding of program
+
+### Helpful Links
+Proksee site: https://proksee.ca/
+Whole-Genome Assembly and Assessment Tutorial: https://github.com/Joseph7e/MDIBL-T3-WGS-Tutorial
