@@ -7,7 +7,7 @@
 * 3 genomes were picked out from about 81
 * sequenced w/ next-gen sequencing through Illumina
 * Raw reads already on Ron
-Unknowns Chosen for Analysis:
+* Unknowns Chosen for Analysis:
   - Sample 12
   - Sample 2
   - Sample CC4
