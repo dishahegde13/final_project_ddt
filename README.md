@@ -8,9 +8,9 @@
 * sequenced w/ next-gen sequencing through Illumina
 * Raw reads already on Ron
 Unknowns Chosen for Analysis:
-* Sample 12
-* Sample 2
-* Sample CC4
+  - Sample 12
+  - Sample 2
+  - Sample CC4
 
 ## Workflow
 ![image](https://github.com/dishahegde13/final_project_ddt/assets/158323878/4b349b18-0d2e-4203-8c34-aef2e8ad5a84)
